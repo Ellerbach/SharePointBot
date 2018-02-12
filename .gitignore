@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/config
+/.vs/ITS.MasterBot/v15/Server/sqlite3
+/AuthBot/obj/Debug
+/BotToQuerySharepoint/obj/Debug
+/BotToQuerySharepoint/Properties/PublishProfiles

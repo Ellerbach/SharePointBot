@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotToQuerySharepoint", "BotToQuerySharepoint\BotToQuerySharepoint.csproj", "{9930ACC7-FFB4-4FF3-B746-1C7D4368B563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthBot", "AuthBot\AuthBot.csproj", "{B8AD59D3-C36D-4E18-B504-06871001BC8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9930ACC7-FFB4-4FF3-B746-1C7D4368B563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9930ACC7-FFB4-4FF3-B746-1C7D4368B563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9930ACC7-FFB4-4FF3-B746-1C7D4368B563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9930ACC7-FFB4-4FF3-B746-1C7D4368B563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8AD59D3-C36D-4E18-B504-06871001BC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8AD59D3-C36D-4E18-B504-06871001BC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8AD59D3-C36D-4E18-B504-06871001BC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8AD59D3-C36D-4E18-B504-06871001BC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F10F7FB7-C39E-45A2-9E17-3A93F3C66383}
+	EndGlobalSection
+EndGlobal
